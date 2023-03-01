@@ -15,7 +15,9 @@ header {
 }
 
 header h1 {
-	
+	font-size: 3em;
+	font-weight: bold;
+	color: grey;
 }
 
 header h2 {

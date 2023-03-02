@@ -12,6 +12,8 @@ body {
 
 header {
 	background-image: url(../images/index_pic.jpeg);
+	min-width: 100%;
+	min-height: 100%;
 	background-repeat: no-repeat;
 }
 

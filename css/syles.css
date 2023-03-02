@@ -7,11 +7,12 @@
 }
 
 body {
-	
+	background-color: white;
 }
 
 header {
 	background-image: url(../images/index_pic.jpeg);
+	background-size: cover;
 	min-width: 100%;
 	min-height: 100%;
 	background-repeat: no-repeat;
@@ -51,7 +52,7 @@ nav ul li {
 }
 
 main {
-
+	
 }
 
 

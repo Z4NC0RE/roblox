@@ -12,6 +12,7 @@ body {
 
 header {
 	background-image: url(../images/index_pic.jpeg);
+	background-repeat: no-repeat;
 }
 
 header h1 {
@@ -33,7 +34,8 @@ header nav {
 }
 
 .hnav {
-	
+	background-color: black;
+	color: aliceblue;
 }
 
 nav ul li {
@@ -47,6 +49,7 @@ nav ul li {
 }
 
 main {
+
 }
 
 
@@ -60,7 +63,8 @@ table {
 }
 
 footer {
-	
+	background-color: black;
+	color: aliceblue;
 }
 
 footer h4 h5 h6 {

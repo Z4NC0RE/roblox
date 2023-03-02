@@ -41,6 +41,13 @@ header nav {
 	color: aliceblue;
 }
 
+header nav ul {
+	background-color: red;
+	color: black;
+	padding: 10px;
+	margin: 10px;
+}
+
 nav ul li {
 	display: inline-block;
 	padding: 10px;

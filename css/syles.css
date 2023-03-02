@@ -46,7 +46,7 @@ header h2 {
 	display: inline-block;
 	list-style: none;
 	width: 15%;
-	background-color: #11181e;
+	background-color: red;
 	margin-top: .8%;
 }
 
@@ -105,6 +105,38 @@ footer {
 	color: aliceblue;
 }
 
-footer h4 h5 h6 {
+.fnav {
+	padding: 5px 0;
+	width: 100%;
+	background-color: #11181e;
+	min-height: 50px;
+}
+
+.fnav ul {
+	display: block;
+	text-align: center;
+}
+.fnav ul li {
+	display: inline-block;
+	list-style: none;
+	width: 15%;
+	background-color: red;
+	margin-top: .8%;
+}
+
+.fnav a {
+	color: gray;
+	background-color: red;
+	text-decoration: none;
+	font-size: 1.5em;
+}
+
+.fnav ul li:hover {
+	background-color: gray;
+	color: black;
+	text-decoration: underline;
+}
+
+footer h4, footer h5, footer h6 {
 	text-align: center;
 }

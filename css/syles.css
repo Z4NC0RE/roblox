@@ -62,7 +62,30 @@ main {
 	
 }
 
+.currency {
+	height: 500px;
+	width: 500px;
+}
 
+.events1 {
+	height: 500px;
+	width: 500px;
+}
+
+.events2 {
+	height: 500px;
+	width: 500px;
+}
+
+.studio {
+	height: 500px;
+	width: 500px;
+}
+
+.newsletter {
+	height: 500px;
+	width: 500px;
+}
 
 blockquote {
 	

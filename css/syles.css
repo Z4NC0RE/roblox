@@ -17,7 +17,7 @@ header {
 header h1 {
 	font-size: 3em;
 	font-weight: bold;
-	color: grey;
+	color: black;
 }
 
 header h2 {
@@ -36,7 +36,7 @@ header nav {
 	
 }
 
-.hnav:hover {
+.hnav ul li :hover {
 	background-color: red;
 	text-decoration: underline;
 }
@@ -55,4 +55,8 @@ table {
 
 footer {
 	
+}
+
+footer h4 h5 h6 {
+	text-align: center;
 }

@@ -17,15 +17,17 @@ header {
 }
 
 header h1 {
-	font-size: 5em;
+	font-size: 7em;
 	font-weight: bold;
 	color: aliceblue;
+	margin-left: 40%;
 }
 
 header h2 {
 	font-weight: bold;
 	font-size: 3em;
 	color: red;
+	margin-left: 50%;
 }
 
 .hnav {

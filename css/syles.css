@@ -90,6 +90,45 @@ main {
 	width: 500px;
 }
 
+table {
+	display: table;
+	border-collapse: separate;
+	box-sizing: border-box;
+	text-indent: initial;
+	border-spacing: 1em;
+	border-color: black;
+}
+
+tbody {
+	display: table-row-group;
+	vertical-align: middle;
+	border-color: inherit;
+}
+
+tr {
+	display: table-row;
+	vertical-align: inherit;
+	border-color: inherit;
+}
+
+td {
+	display: table-cell;
+	vertical-align: inherit;
+}
+
+input {
+	height: 2em;
+	width: 17em;
+	border-radius: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 1em;
+	font-weight: bold;
+	background-color: black;
+	color: aliceblue;
+	border: 5px double aliceblue;
+}
+
 blockquote {
 	
 }

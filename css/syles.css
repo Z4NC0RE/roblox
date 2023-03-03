@@ -65,7 +65,7 @@ header h2 {
 
 main {
 	color: black;
-	font-size: 1.4em;
+	font-size: 1.5em;
 	min-height: 700px;
 }
 
@@ -94,25 +94,25 @@ h3 {
 .currency {
 	float: left;
 	height: 500px;
-	width: 550px;
+	width: 600px;
 }
 
 .events1 {
 	float: left;
 	height: 500px;
-	width: 550px;
+	width: 600px;
 }
 
 .events2 {
 	float: left;
 	height: 500px;
-	width: 550px;
+	width: 600px;
 }
 
 .studio {
 	float: left;
 	height: 500px;
-	width: 550px;
+	width: 600px;
 }
 
 .newsletter {
@@ -184,6 +184,7 @@ footer {
 	display: block;
 	text-align: center;
 }
+
 .fnav ul li {
 	display: inline-block;
 	list-style: none;
@@ -200,7 +201,7 @@ footer {
 }
 
 .fnav ul li a:hover {
-	background-color: grey;
+	background-color: red;
 	color: black;
 	text-decoration: underline;
 }

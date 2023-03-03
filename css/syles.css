@@ -55,8 +55,8 @@ header h2 {
 	font-size: 1.5em;
 }
 
-.hnav ul li:hover {
-	background-color: gray;
+.hnav ul li a:hover {
+	background-color: grey;
 	color: black;
 	text-decoration: underline;
 }

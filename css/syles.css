@@ -12,10 +12,7 @@ body {
 
 header {
 	min-height: 300px;
-	background-image: url("../images/index_pic.jpeg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: 23% 23%;
+	background-color: black;
 }
 
 header h1 {
@@ -64,7 +61,7 @@ header h2 {
 }
 
 main {
-	
+	font-size: 1.5em;
 }
 
 .currency {

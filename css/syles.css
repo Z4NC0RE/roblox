@@ -147,6 +147,10 @@ td {
 	vertical-align: inherit;
 }
 
+.frmButton {
+	width: 10em;
+}
+
 input {
 	height: 2em;
 	width: 17em;

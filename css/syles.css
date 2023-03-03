@@ -160,10 +160,6 @@ input {
 	border: 5px double aliceblue;
 }
 
-.frmButton {
-	width: 10em;
-}
-
 .frmButton:active {
 	background-color: red;
 }

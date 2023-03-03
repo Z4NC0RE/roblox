@@ -147,10 +147,6 @@ td {
 	vertical-align: inherit;
 }
 
-.frmButton {
-	width: 10em;
-}
-
 input {
 	height: 2em;
 	width: 17em;
@@ -162,6 +158,14 @@ input {
 	background-color: black;
 	color: aliceblue;
 	border: 5px double aliceblue;
+}
+
+.frmButton {
+	width: 10em;
+}
+
+.frmButton:active {
+	background-color: #11181e;
 }
 
 blockquote {

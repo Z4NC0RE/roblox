@@ -67,30 +67,31 @@ main {
 
 .homeImage {
 	height: 500px;
-	width: 550px;
+	width: 600px;
 }
 
 .currency {
 	height: 500px;
-	width: 500px;
+	width: 550px;
 }
 
 .events1 {
 	height: 500px;
-	width: 500px;
+	width: 550px;
 }
 
 .events2 {
 	height: 500px;
-	width: 500px;
+	width: 550px;
 }
 
 .studio {
 	height: 500px;
-	width: 500px;
+	width: 550px;
 }
 
 .newsletter {
+	float-left: 100px;
 	height: 500px;
 	width: 500px;
 }

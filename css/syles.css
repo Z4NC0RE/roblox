@@ -65,6 +65,11 @@ main {
 	font-size: 1.5em;
 }
 
+.homeImage {
+	height: 500px;
+	width: 550px;
+}
+
 .currency {
 	height: 500px;
 	width: 500px;

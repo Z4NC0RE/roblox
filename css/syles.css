@@ -64,7 +64,7 @@ header h2 {
 }
 
 main {
-	font-size: 1.5em;
+	color: black;
 }
 
 #container {
@@ -72,8 +72,12 @@ main {
 	margin: 0 auto;
 	width: 80%;
 	min-height: 500px;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	color: black;
+}
+
+main #container h3 {
+	font-size: 2em;
 }
 
 .homeImage {

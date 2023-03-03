@@ -67,6 +67,11 @@ main {
 	color: black;
 }
 
+h3 {
+	font-size: 2em;
+	font-weight: bold;
+}
+
 #container {
 	padding: 3% 0;
 	margin: 0 auto;
@@ -74,10 +79,6 @@ main {
 	min-height: 500px;
 	font-size: 1.2em;
 	color: black;
-}
-
-main #container h3 {
-	font-size: 2em;
 }
 
 .homeImage {

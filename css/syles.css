@@ -171,6 +171,7 @@ blockquote {
 footer {
 	background-color: black;
 	color: aliceblue;
+	text-align: center;
 }
 
 .fnav {
